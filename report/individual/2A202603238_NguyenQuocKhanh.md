@@ -4,11 +4,11 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Lớp:
-- Link repo bài làm:
+- Họ tên: Nguyễn Quốc Khánh
+- MSSV: 2A202603238
+- Email: 26ai.khanhnq3@vinuni.edu.vn
+- Lớp:L2B
+- Link repo bài làm: https://github.com/kanzh24/K5-L2B-DAY02-NguyenQuocKhanh-2A202603238-ObjectDetection.git
 - Link Colab đã chạy:
 
 ## 2. Schema và mini guideline
@@ -17,11 +17,11 @@ Dẫn tới [GUIDELINE_MINI.md](../../GUIDELINE_MINI.md). Tóm tắt ba ca mơ h
 
 ## 3. Annotation và self-QC
 
-- Số file nhãn train:
-- Kết quả checker và lỗi đã xử lý:
-- Danh sách ít nhất 10 ảnh đã rà bằng mắt:
-- Lỗi bỏ sót/box/class phát hiện khi rà và cách sửa:
-- Commit khóa nhãn ban đầu:
+- Số file nhãn train: 50
+- Kết quả checker và lỗi đã xử lý: ĐẠT cấu trúc: 50/50 file nhãn hợp lệ
+- Danh sách ít nhất 10 ảnh đã rà bằng mắt: drive_001, drive_002, drive_003, drive_004, drive_005, drive_006, drive_007, drive_008, drive_009, drive_010
+- Lỗi bỏ sót/box/class phát hiện khi rà và cách sửa: Không có
+- Commit khóa nhãn ban đầu: update 50 files trained labels
 
 ## 4. Gold QC và rework
 
